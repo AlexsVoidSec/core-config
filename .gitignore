@@ -1,0 +1,14 @@
+# generic
+*.log
+*.tmp
+*.bak
+.DS_Store
+Thumbs.db
+
+# optional encryption artifacts
+*.gpg
+*.asc
+
+# editor
+.vscode/
+.idea/

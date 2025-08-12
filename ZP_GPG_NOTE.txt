@@ -1,0 +1,5 @@
+-----BEGIN NOTE-----
+You may keep an encrypted copy of `alpha-proto/zp_memory.json` as `alpha-proto/zp_memory.json.gpg`.
+Example:
+  gpg --output alpha-proto/zp_memory.json.gpg --encrypt --recipient <YOUR_ID> alpha-proto/zp_memory.json
+-----END NOTE-----
